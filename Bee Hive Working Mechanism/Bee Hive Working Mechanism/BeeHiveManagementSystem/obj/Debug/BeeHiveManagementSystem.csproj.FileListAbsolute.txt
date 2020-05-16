@@ -1,0 +1,18 @@
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.exe.config
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.exe
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.pdb
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.Form1.resources
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.Properties.Resources.resources
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.csproj.GenerateResource.Cache
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.exe
+E:\Projects for code-projects\new\BeeHive-Management-System-master\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.pdb
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.exe.config
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.exe
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.pdb
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.Form1.resources
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.Properties.Resources.resources
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.exe
+C:\Users\user\Desktop\BeehiveManager\BMI\Bee Hive Working Mechanism\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.pdb
