@@ -20,12 +20,12 @@ namespace BeeHiveManagementSystem
 
             Worker[] workers = new Worker[4];
 
-            workers[0] = new Worker(new string[] { "Сбор нектара", "Создание меда" });
-            workers[1] = new Worker(new string[] { "Забота о яйцах", "Обучение родившихся пчел" });
-            workers[2] = new Worker(new string[] { "Обслуживание улья", "Патрулирование" });
-            workers[3] = new Worker(new string[] { "Сбор нектара", "Создание меда", "Забота о яйцах", "Обучение родившихся пчел", "Обслуживание улья", "Патрулирование" });
+            workers[0] = new Worker(new string[] { "Сбор нектара", "Создание меда" }, 175);
+            workers[1] = new Worker(new string[] { "Забота о яйцах", "Обучение родившихся пчел" }, 114);
+            workers[2] = new Worker(new string[] { "Обслуживание улья", "Патрулирование" }, 149);
+            workers[3] = new Worker(new string[] { "Сбор нектара", "Создание меда", "Забота о яйцах", "Обучение родившихся пчел", "Обслуживание улья", "Патрулирование" }, 155);
            
-            queen = new Queen(workers);
+            queen = new Queen(workers, 275);
         }
 
         private void button1_Click(object sender, EventArgs e)
